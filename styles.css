@@ -1,0 +1,57 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(to left,rgba(234, 35, 35, 0.7),rgba(51, 84, 170, 0.8), rgba(212, 180, 85, 0.928)),url("./img/fondo\ 7.jpg");
+    background-size: cover;
+    background-position: center;
+    color: rgb(148, 254, 0); 
+    letter-spacing: -5px;
+}
+
+.logo {
+
+    height: 100px;
+    margin-top: 40px;
+    width: 350px;
+    
+    
+}
+
+.text-description {
+    letter-spacing: 3px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #ffffff !important;
+    font-size: 20px;
+    
+}
+
+a .fab {
+    color: rgb(4, 230, 215);
+    font-size: 40px;
+    margin: 0 10px;
+}
+
+.p{
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    margin-top: 100px;
+    color: #ffffff;
+}
+
+.btn{
+    background: transparent !important;
+    border-color: black; 
+
+}
+
+.mt-8{
+    margin-top: 100px;
+}
